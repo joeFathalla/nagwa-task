@@ -21,7 +21,7 @@ or
   yarn install
 ```
 
-### usage 
+### Usage 
 
 to run the server side code
 
@@ -36,16 +36,16 @@ Install client-side with npm or yarn
 
 ```bash
   cd client-side
-  npm Install
+  npm install
 ```
 or
 
 ```bash
   cd client-side
-  yarn Install
+  yarn install
 ```
 
-### usage 
+### Usage 
 
 to run the client side code
 
