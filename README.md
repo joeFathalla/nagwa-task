@@ -12,13 +12,13 @@ Install server-side with npm or yarn
 
 ```bash
   cd serve-side
-  npm Install
+  npm install
 ```
 or
 
 ```bash
   cd server-side
-  yarn Install
+  yarn install
 ```
 
 ### usage 
